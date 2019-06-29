@@ -1,1 +1,2 @@
-python3 main.py tests/test0 0.3 0.9 300
+#!/bin/bash
+python3 main.py $1 $2 $3 $4
